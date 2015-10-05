@@ -1,7 +1,7 @@
 /*
   Demo Program for the SoftPotButton library for the Arduino.
 
-  The example program will print buttons pressed on a ribbon softpot, divided in 12 equal areas.
+  The example program will work with     buttons pressed on a Circular Soft Potentiometer , divided in 12 equal areas.
   The center of an areas can be defined as touchpoints, each touchpoint has the same size (e.g. +- 10).
 
 
